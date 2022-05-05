@@ -1,0 +1,13 @@
+#odd {
+    color: red;
+    padding: 1rem;
+    border: 1px solid red;
+    margin: 1rem;
+}
+
+#even {
+    color: green;
+    padding: 1rem;
+    border: 1px solid green;
+    margin: 1rem;
+}
